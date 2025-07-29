@@ -44,7 +44,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Project-Library%20of%20Functions-blue?style=for-the-badge&logo=cplusplus" alt="Library of functions"/>
+        <img src="https://img.shields.io/badge/Library%20of%20Functions-blue?style=for-the-badge&logo=cplusplus" alt="Library of Functions"/>
         <br><strong>Library of Functions</strong>
       </td>
       <td>
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Project-Line%20Reader-purple?style=for-the-badge&logo=readthedocs" alt="Line reader"/>
+        <img src="https://img.shields.io/badge/Line%20Reader-purple?style=for-the-badge&logo=readthedocs" alt="Line reader"/>
         <br><strong>Line Reader</strong>
       </td>
       <td>
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Project-Printf%20Recreation-orange?style=for-the-badge&logo=terminal" alt="Printf recreation"/>
+        <img src="https://img.shields.io/badge/Printf%20Recreation-orange?style=for-the-badge&logo=terminal" alt="Printf recreation"/>
         <br><strong>Printf Recreation</strong>
       </td>
       <td>
@@ -101,7 +101,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Project-Stack%20Sorting%20Algorithm-red?style=for-the-badge&logo=sort" alt="Stack sorting algorithm"/>
+        <img src="https://img.shields.io/badge/Stack%20Sorting%20Algorithm-red?style=for-the-badge&logo=sort" alt="Stack sorting algorithm"/>
         <br><strong>Stack Sorting Algorithm</strong>
       </td>
       <td>
@@ -120,7 +120,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Project-so__long-teal?style=for-the-badge&logo=gamecontroller" alt="2D game"/>
+        <img src="https://img.shields.io/badge/so__long-teal?style=for-the-badge&logo=gamecontroller" alt="2D game"/>
         <br><strong>so_long</strong>
       </td>
       <td>
@@ -139,7 +139,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Project-pipex-green?style=for-the-badge&logo=pipe" alt="Shell pipe handler"/>
+        <img src="https://img.shields.io/badge/pipex-green?style=for-the-badge&logo=pipe" alt="Shell pipe handler"/>
         <br><strong>pipex</strong>
       </td>
       <td>
