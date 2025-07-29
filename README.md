@@ -44,7 +44,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <br><strong>Library of Functions</strong>
+        <br><strong>Library of functions</strong>
       </td>
       <td>
         Custom C library implementing essential functions from standard libraries. Includes string manipulation and memory management.
@@ -62,8 +62,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Line%20Reader-purple?style=for-the-badge" alt="Line reader"/>
-        <br><strong>Line Reader</strong>
+        <br><strong>Line reader</strong>
       </td>
       <td>
         Function that reads a text file line by line, regardless of buffer size. Handles multiple file descriptors simultaneously and manages memory efficiently.
@@ -81,8 +80,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Printf%20Recreation-orange?style=for-the-badge&logo=terminal" alt="Printf recreation"/>
-        <br><strong>Printf Recreation</strong>
+        <br><strong>Printf recreation</strong>
       </td>
       <td>
         Recreation of the C library printf function with support for various format specifiers including %c, %s, %p, %d, %i, %u, %x, %X.
@@ -100,8 +98,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Stack%20Sorting%20Algorithm-red?style=for-the-badge&logo=sort" alt="Stack sorting algorithm"/>
-        <br><strong>Stack Sorting Algorithm</strong>
+        <br><strong>Stack sorting algorithm</strong>
       </td>
       <td>
         Sorting algorithm project using two stacks and a limited set of operations. Implements efficient sorting strategies to minimize the number of operations needed to sort integers.
@@ -119,8 +116,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/so__long-teal?style=for-the-badge&logo=gamecontroller" alt="2D game"/>
-        <br><strong>so_long</strong>
+        <br><strong>2D game</strong>
       </td>
       <td>
         2D game built with MLX42 graphics library. Player navigates through a map with walls collecting coins and exiting when all are collected.
@@ -138,8 +134,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/pipex-green?style=for-the-badge&logo=pipe" alt="Shell pipe handler"/>
-        <br><strong>pipex</strong>
+        <br><strong>Shell pipe handler</strong>
       </td>
       <td>
         Program that reproduces shell pipe behavior between two commands.
