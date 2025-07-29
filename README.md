@@ -44,7 +44,6 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Library%20of%20Functions-blue?style=for-the-badge" alt="Library of Functions"/>
         <br><strong>Library of Functions</strong>
       </td>
       <td>
