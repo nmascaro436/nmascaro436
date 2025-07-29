@@ -44,7 +44,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Library%20of%20Functions-blue?style=for-the-badge&logo=cplusplus" alt="Library of Functions"/>
+        <img src="https://img.shields.io/badge/Library%20of%20Functions-blue?style=for-the-badge" alt="Library of Functions"/>
         <br><strong>Library of Functions</strong>
       </td>
       <td>
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Line%20Reader-purple?style=for-the-badge&logo=readthedocs" alt="Line reader"/>
+        <img src="https://img.shields.io/badge/Line%20Reader-purple?style=for-the-badge" alt="Line reader"/>
         <br><strong>Line Reader</strong>
       </td>
       <td>
