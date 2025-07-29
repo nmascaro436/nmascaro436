@@ -72,7 +72,7 @@
       <td align="center">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
         <br>
-        <img src="https://img.shields.io/badge/File%20I/O-orange?style=flat-square&logo=files&logoColor=white" alt="File reading"/>
+        <img src="https://img.shields.io/badge/File%20reading-orange?style=flat-square&logo=files&logoColor=white" alt="File reading"/>
       </td>
       <td align="center">
         <a href="https://github.com/nmascaro436/Get_next_line-Hive">
