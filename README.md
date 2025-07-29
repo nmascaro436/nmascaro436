@@ -30,6 +30,135 @@
 
 <hr>
 
+🎓📚 Projects done at Hive Helsinki coding school
+<div align="center">
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="20%">🚀 Project</th>
+      <th width="50%">📝 Description</th>
+      <th width="15%">🛠️ Tech Stack</th>
+      <th width="15%">🔗 Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Project-Library%20of%20Functions-blue?style=for-the-badge&logo=cplusplus" alt="Library of functions"/>
+        <br><strong>Library of Functions</strong>
+      </td>
+      <td>
+        Custom C library implementing essential functions from standard libraries. Includes string manipulation and memory management.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+        <br>
+        <img src="https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=gnu&logoColor=white" alt="Makefile"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nmascaro436/Libft-hive">
+          <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Project-Line%20Reader-purple?style=for-the-badge&logo=readthedocs" alt="Line reader"/>
+        <br><strong>Line Reader</strong>
+      </td>
+      <td>
+        Function that reads a text file line by line, regardless of buffer size. Handles multiple file descriptors simultaneously and manages memory efficiently.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+        <br>
+        <img src="https://img.shields.io/badge/File%20I/O-orange?style=flat-square&logo=files&logoColor=white" alt="File reading"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nmascaro436/Get_next_line-Hive">
+          <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Project-Printf%20Recreation-orange?style=for-the-badge&logo=terminal" alt="Printf recreation"/>
+        <br><strong>Printf Recreation</strong>
+      </td>
+      <td>
+        Recreation of the C library printf function with support for various format specifiers including %c, %s, %p, %d, %i, %u, %x, %X.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+        <br>
+        <img src="https://img.shields.io/badge/Variadic-Functions-red?style=flat-square&logo=function&logoColor=white" alt="Variadic Functions"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nmascaro436/Ft_printf-Hive">
+          <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Project-Stack%20Sorting%20Algorithm-red?style=for-the-badge&logo=sort" alt="Stack sorting algorithm"/>
+        <br><strong>Stack Sorting Algorithm</strong>
+      </td>
+      <td>
+        Sorting algorithm project using two stacks and a limited set of operations. Implements efficient sorting strategies to minimize the number of operations needed to sort integers.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+        <br>
+        <img src="https://img.shields.io/badge/Algorithms-yellow?style=flat-square&logo=algorithm&logoColor=black" alt="Algorithms"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nmascaro436/push-swap-Hive">
+          <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Project-so__long-teal?style=for-the-badge&logo=gamecontroller" alt="2D game"/>
+        <br><strong>so_long</strong>
+      </td>
+      <td>
+        2D game built with MLX42 graphics library. Player navigates through a map with walls collecting coins and exiting when all are collected.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+        <br>
+        <img src="https://img.shields.io/badge/MiniLibX-Graphics-blue?style=flat-square&logo=graphics&logoColor=white" alt="MLX2"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nmascaro436/so_long-Hive">
+          <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Project-pipex-green?style=for-the-badge&logo=pipe" alt="Shell pipe handler"/>
+        <br><strong>pipex</strong>
+      </td>
+      <td>
+        Program that reproduces shell pipe behavior between two commands.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+        <br>
+        <img src="https://img.shields.io/badge/Unix-Processes-darkgreen?style=flat-square&logo=unix&logoColor=white" alt="Unix Processes"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nmascaro436/pipex-Hive">
+          <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!---
 nmascaro436/nmascaro436 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
