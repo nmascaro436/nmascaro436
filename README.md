@@ -30,7 +30,7 @@
 
 <hr>
 
-🎓📚 Projects done at Hive Helsinki coding school
+📚 Projects done so far at Hive Helsinki coding school
 <div align="center">
 <table align="center" width="100%">
   <thead>
