@@ -150,6 +150,24 @@
         </a>
       </td>
     </tr>
+     <td align="center">
+        <br><strong>Line reader</strong>
+      </td>
+      <td>
+        Function that reads a text file line by line, regardless of buffer size. Handles multiple file descriptors simultaneously and manages memory efficiently.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+        <br>
+        <img src="https://img.shields.io/badge/File%20reading-orange?style=flat-square&logo=files&logoColor=white" alt="File reading"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nmascaro436/Get_next_line-Hive">
+          <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
   </tbody>
 </table>
 
