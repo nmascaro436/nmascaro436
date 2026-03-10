@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,git" />
+  <img src="https://skillicons.dev/icons?i=c,git,c++" />
 </p>
 
 <hr>
