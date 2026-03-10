@@ -150,6 +150,7 @@
         </a>
       </td>
     </tr>
+      <tr>
      <td align="center">
         <br><strong>Custom Unix shell</strong>
       </td>
@@ -168,6 +169,25 @@
       </td>
     </tr>
     <tr>
+         <td align="center">
+    <br><strong>3D Raycasting Game</strong>
+  </td>
+  <td>
+    3D maze exploration game inspired by early raycasting engines like Wolfenstein 3D. 
+    Implements a raycasting algorithm to render a pseudo-3D environment from a 2D map, 
+    with textured walls, player movement, and real-time rendering.
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+    <br>
+    <img src="https://img.shields.io/badge/Raycasting-3D-blueviolet?style=flat-square&logo=graphics&logoColor=white" alt="Raycasting"/>
+  </td>
+  <td align="center">
+    <a href="https://github.com/nmascaro436/cub3d-Hive">
+      <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+    </a>
+  </td>
+    </tr>
   </tbody>
 </table>
 
