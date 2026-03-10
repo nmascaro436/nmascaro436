@@ -188,6 +188,24 @@
     </a>
   </td>
     </tr>
+      <tr>
+  <td align="center">
+    <br><strong>C++ Modules</strong>
+  </td>
+  <td>
+    Series of projects focused on learning object-oriented programming in C++. Covers core concepts such as classes, encapsulation, inheritance, polymorphism, operator overloading, templates, and exception handling through progressively complex exercises.
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+    <br>
+    <img src="https://img.shields.io/badge/OOP-Concepts-blue?style=flat-square&logo=code&logoColor=white" alt="OOP"/>
+  </td>
+  <td align="center">
+    <a href="https://github.com/nmascaro436/CPP-modules-Hive">
+      <img src="https://img.shields.io/badge/View-Projects-green?style=for-the-badge&logo=github" alt="Repository"/>
+    </a>
+  </td>
+</tr>
   </tbody>
 </table>
 
