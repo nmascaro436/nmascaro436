@@ -206,6 +206,26 @@
     </a>
   </td>
 </tr>
+       <tr>
+  <td align="center">
+    <br><strong>IRC Server</strong>
+  </td>
+  <td>
+    Custom Internet Relay Chat (IRC) server built in C++. Features real-time messaging, multiple client connections, channel creation and management, user authentication, operator commands, and efficient network communication using sockets and non-blocking I/O.
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+    <br>
+    <img src="https://img.shields.io/badge/Networking-Systems-blue?style=flat-square&logo=cloudflare&logoColor=white" alt="Networking"/>
+    <br>
+    <img src="https://img.shields.io/badge/Socket-Programming-orange?style=flat-square&logo=gnubash&logoColor=white" alt="Sockets"/>
+  </td>
+  <td align="center">
+    <a href="https://github.com/k-repo-dev/ft_irc">
+      <img src="https://img.shields.io/badge/View-Projects-green?style=for-the-badge&logo=github" alt="Repository"/>
+    </a>
+  </td>
+</tr>
   </tbody>
 </table>
 
