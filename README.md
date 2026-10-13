@@ -228,6 +228,26 @@
     </a>
   </td>
 </tr>
+<tr>
+      <td align="center">
+        <br><strong>Blokus Online (Final project)</strong>
+      </td>
+      <td>
+        Browser-based multiplayer version of Blokus, built in a team of five. Up to four players can play online, with bots filling empty seats, plus accounts, friends, profiles, and a leaderboard. I was Frontend Lead and built the React interface, login and profile pages, and form validation.
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nmascaro436/ft_transcendence---Blokus-Online">
+          <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
+        </a>
+      </td>
+    </tr> 
   </tbody>
 </table>
 
