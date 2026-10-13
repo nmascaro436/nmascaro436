@@ -2,18 +2,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+there!+👋;+I'm+Núria+Mascaró!;" />
 </h1>
 
-👀 I have recently begun exploring the field of programming and I'm eager to deepen my understanding of software development.
+💻 Junior software developer based in Helsinki, and a recent graduate of Hive Helsinki.
 
-🌱 I’m currently learning C programming at Hive Helsinki.
+🌱 I worked mainly in C and C++, and for my final project I was Frontend Lead on Blokus Online, a multiplayer web game built with a team of five using React, TypeScript, Node.js, and Docker.
 
-⚡ Prior to coding, I studied Translation and Interpreting, which gives me a unique perspective on languages, and now I’m applying that to the language of computers.
+🌍 Before coding, I studied Translation and Interpreting (English, French, Catalan, Spanish), which gives me a unique perspective on languages. Now I'm applying that to the language of computers.
+
+📫 Looking for junior full stack roles. You can find me on [LinkedIn](www.linkedin.com/in/núria-mascaró).
 
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts, react, nodejs, tailwind,, docker, git" />
 </p>
 
 <hr>
@@ -30,7 +32,7 @@
 
 <hr>
 
-📚 Projects done so far at Hive Helsinki coding school
+📚 Projects done at Hive Helsinki coding school
 <div align="center">
 <table align="center" width="100%">
   <thead>
