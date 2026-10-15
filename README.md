@@ -8,7 +8,7 @@
 
 🌍 Before coding, I studied Translation and Interpreting (English, French, Catalan, Spanish), which gives me a unique perspective on languages. Now I'm applying that to the language of computers.
 
-📫 Looking for junior full stack roles. You can find me on [LinkedIn](https://www.linkedin.com/in/nuria-mascaro/).
+📫 Looking for my first job in tech. You can find me on [LinkedIn](https://www.linkedin.com/in/nuria-mascaro/).
 
 ## 🛠️ Languages and Tools
 
