@@ -18,19 +18,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,ts, react, nodejs, tailwind,, docker, git" />
 </p>
 
-<hr>
-
-## ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nmascaro436&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Núria's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nmascaro436&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Núria's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=nmascaro436&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Núria's Most Used Languages" />
-</div>
-
-<hr>
 
 📚 Projects done at Hive Helsinki coding school
 <div align="center">
@@ -224,7 +211,7 @@
   </td>
   <td align="center">
     <a href="https://github.com/k-repo-dev/ft_irc">
-      <img src="https://img.shields.io/badge/View-Projects-green?style=for-the-badge&logo=github" alt="Repository"/>
+      <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge&logo=github" alt="Repository"/>
     </a>
   </td>
 </tr>
