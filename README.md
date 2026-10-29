@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,ts, react, nodejs, tailwind,, docker, git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,react,nodejs,tailwind,docker,git" />
 </p>
 
 
